@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.112.153.223
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732598091634
+  login: 1732586672628
+money: '0'
+last-account-name: BqYz
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -0.5219496931604445
+  y: 133.76636799395752
+  z: -112.85916176634342
+  yaw: -175.6493377685547
+  pitch: 19.500093460083008
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -31.403756849308365
+  y: 80.0
+  z: -2456.614177132016
+  yaw: -54.276123046875
+  pitch: -10.499696731567383

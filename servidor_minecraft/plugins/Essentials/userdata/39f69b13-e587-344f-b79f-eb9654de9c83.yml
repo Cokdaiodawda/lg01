@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.185.181.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732595630017
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732598091638
+  login: 1732591554168
+money: '0'
+nickname: §8§kHerobrine
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -944.8649885926775
+  y: 69.0
+  z: 641.394604680957
+  yaw: 64.55175018310547
+  pitch: 19.814289093017578
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -1056.440000916849
+  y: 90.0
+  z: -1546.3521858004249
+  yaw: 4.27978515625
+  pitch: 82.21212768554688
+last-account-name: v783
